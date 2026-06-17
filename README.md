@@ -1,2 +1,2 @@
-# Script-Admnistraci-n-Programas-Powershell
+# Script-Admnistracion-Programas-Powershell
 Script de PowerShell para automatizar la gestión de programas en Windows mediante Winget, con menú interactivo, instalación, desinstalación y comprobación de aplicaciones.
